@@ -46,6 +46,7 @@
 		"async-exit-hook": "^2.0.1",
 		"commander": "^10.0.1",
 		"dotenv": "^16.0.3",
+		"@tomphttp/bare-server-node": "^1.0.0",
 		"http-errors": "^2.0.0",
 		"ipaddr.js": "^2.1.0",
 		"rate-limiter-flexible": "^7.3.1",
