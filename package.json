@@ -1,4 +1,8 @@
 {
+	"scripts": {
+  "start": "node index.js"
+}
+
 	"name": "@tomphttp/bare-server-node",
 	"description": "The Bare Server implementation in NodeJS.",
 	"version": "2.0.6",
